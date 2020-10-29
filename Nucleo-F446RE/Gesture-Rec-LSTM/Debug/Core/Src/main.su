@@ -1,0 +1,11 @@
+main.c:88:5:main	9144	static
+main.c:198:6:SystemClock_Config	88	static
+main.c:244:13:MX_CRC_Init	8	static
+main.c:270:13:MX_USART2_UART_Init	8	static
+main.c:303:13:MX_GPIO_Init	48	static
+main.c:348:6:motion_softmax	40	static
+main.c:367:6:captureData	160	dynamic
+main.c:407:6:predictGesture	48	static
+main.c:437:13:Accelero_Sensor_Handler	40	static
+main.c:457:13:Gyro_Sensor_Handler	40	static
+main.c:484:6:Error_Handler	4	static

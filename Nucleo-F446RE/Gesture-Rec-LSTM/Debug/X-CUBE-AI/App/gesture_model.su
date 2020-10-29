@@ -1,0 +1,9 @@
+gesture_model.c:409:9:gesture_model_configure_activations	24	static
+gesture_model.c:442:9:gesture_model_configure_weights	24	static
+gesture_model.c:487:9:ai_gesture_model_get_info	136	static
+gesture_model.c:534:10:ai_gesture_model_get_error	16	static
+gesture_model.c:540:10:ai_gesture_model_create	24	static
+gesture_model.c:550:11:ai_gesture_model_destroy	16	static
+gesture_model.c:556:9:ai_gesture_model_init	24	static
+gesture_model.c:573:8:ai_gesture_model_run	24	static
+gesture_model.c:580:8:ai_gesture_model_forward	16	static
